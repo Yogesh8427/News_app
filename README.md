@@ -1,4 +1,4 @@
-#link [News App](news-app.yogesh-kumark19.repl.co).
+#link [News App](http://news-app.yogesh-kumark19.repl.co).
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
